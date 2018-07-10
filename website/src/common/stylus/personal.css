@@ -1,0 +1,55 @@
+
+.personal-box{
+    padding:30px 15px 0 15px;
+  }
+  .personalcenter-box{
+    color:#1b1b1b;
+  }
+  .personalcenter-box h3{
+    font-size: 18px;
+    margin-bottom: 25px;
+  }
+  .personalimform h4{
+    font-size: 16px;
+    margin:0;
+  }
+  .peraonal-input{
+    margin-top: 15PX;
+    margin-bottom: 15px;
+  }
+  .changecont{
+    font-size: 16px;
+    color: #d33a31;
+    line-height:70px; 
+    margin-bottom: 0;
+  }
+  
+  .input-item{
+      height:40px;
+  }
+  /* 手机移动端 */
+@media (max-width: 576px) {
+ .personal-box{
+    padding:10px 6px;
+  }
+  .phonePersonal-text{
+    padding: 0 6px;
+  }
+  .personalcenter-box h3{
+    font-size: 16px;
+    margin-bottom: 15px;
+  }
+  .personalimform h4{
+    font-size: 14px;
+    margin:0;
+  }
+  .peraonal-input{
+    margin-top: 8PX;
+    margin-bottom: 8px;
+    height:30px;
+  }
+  .changecont{
+    font-size: 14px;
+    line-height:46px; 
+  } 
+}
